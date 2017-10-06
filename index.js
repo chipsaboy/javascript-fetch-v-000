@@ -1,2 +1,2 @@
 const app = "I don't do much.";
-const comprende = "I understand."
+const comprende = "I understand.";
